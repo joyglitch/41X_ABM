@@ -4,7 +4,7 @@ Joyce Li, Riju Sikdar, Ziyad Kalati, Stuart Martin, Hassan Baryal
 
 **Results**
 Power grid demand simulation without decentralized power storage and production
-<img src="figure.png" height="500px" width="auto"/>
+<img src="figure.PNG" height="500px" width="auto"/>
 
 
 **Docs**
